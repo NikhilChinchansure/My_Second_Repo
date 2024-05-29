@@ -1,2 +1,7 @@
 Hello
+<<<<<<< HEAD
 This is F2 file data.....................
+=======
+This is F2 file data
+added a new line data
+>>>>>>> 4a66366acbac3cff33fe69d36c8362a2f56fd707
